@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "statemnt": "What is capital of Pakistan",
+        "options": [
+            "1. islamabad",
+            "2. Karachi",
+            "3. Lahore",
+            "4. Multan"
+        ],
+        "correctoptionIndex": "0"
+    },
+
+    {
+        "id" : 1,
+        "statemnt": "What is capital of India",
+        "options": [
+            "1. karachi",
+            "2. Dehli",
+            "3. peshawer",
+            "4. Multan"
+        ],
+        "correctoptionIndex": "1"
+    },
+
+    {
+        "id" : 1,
+        "statemnt": "What is capital of Afghanistan",
+        "options": [
+            "1. islamabad",
+            "2. Karachi",
+            "3. Lahore",
+            "4. Multan"
+        ],
+        "correctoptionIndex": "2"
+    }
+]
